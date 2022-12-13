@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Egor-04&show_icons=true&theme=dark&text_color=6C8AD5&border_color=04376C&ring_color=4380D3&background_color=102045" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-04&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-04&layout=compact&theme=dark&background_color=102045" />
 </a>
 
 <!--
