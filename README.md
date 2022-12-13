@@ -1,4 +1,4 @@
-<div align="center">
+<div align-vertical="center">
    <div>
    <img align-vertical="middle" height=160px src="https://github-readme-stats.vercel.app/api?username=Egor-04&show_icons=true&theme=dark&text_color=94C5FF&border_color=04376C&ring_color=0074FF&background_color=102045&title_color=94C5FF&icon_color=0074FF" />
       
