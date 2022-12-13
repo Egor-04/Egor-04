@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Egor-04&show_icons=true&theme=dark&text_color=94C5FF&border_color=04376C&ring_color=4380D3&background_color=102045&title_color=94C5FF&icon_color=0074FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Egor-04&show_icons=true&theme=dark&text_color=94C5FF&border_color=04376C&ring_color=0074FF&background_color=102045&title_color=94C5FF&icon_color=0074FF" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-04&layout=compact&theme=dark&background_color=102045&border_color=04376C&title_color=94C5FF&text_color=94C5FF" />
