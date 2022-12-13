@@ -1,6 +1,4 @@
 ---
-
-### :fire: My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Egor-04&show_icons=true&theme=dark&text_color=94C5FF&border_color=04376C&ring_color=0074FF&background_color=102045&title_color=94C5FF&icon_color=0074FF" />
 </a>
